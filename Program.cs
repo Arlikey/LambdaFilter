@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace LambdaFilter
+﻿namespace LambdaFilter
 {
     /*internal class Program
     {
